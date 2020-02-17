@@ -1,0 +1,19 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.card-question {
+  border-left: 4px solid rgba(75, 75, 75, 0.3);
+  padding-left: 10px;
+  p {
+    margin-bottom: 8px;
+  }
+}
+
+.card-answer {
+  border-left: 4px solid rgba(75, 75, 75, 0.3);
+  padding-left: 10px;
+  background-color: #c7dbe6;
+  p {
+    margin-bottom: 8px;
+  }
+}
